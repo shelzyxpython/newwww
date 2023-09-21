@@ -1,0 +1,226 @@
+.block{
+    height: 931px;
+    width: 1691px;
+    background-repeat: no-repeat;
+    background-image: url(../img/road.svg)
+    
+}
+.link-top{
+    color: #fff;
+    margin-left: 25px;
+}
+
+.logo{
+    margin-left: 225px;
+    margin-right: 225px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.links{
+    display: flex;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.language{
+    
+    display: flex;
+    font-size: 15px;
+    font-weight: 600;
+}
+.lang-ru{
+    color: #b7b7b7;
+    margin-right: 25px;
+}
+.lang-en{
+    color: #fff;
+}
+.main__text{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 225px;
+    margin-right: 225px;
+    color: #fff;
+    font-size: 38px;
+    font-weight: 700;
+    font-family: Poppins;
+}
+.click{
+    color: #fff;
+    width: 198px;
+    height: 50px;
+    font-size: 18px;
+    margin-left: 60px;
+
+}
+.clicker{
+    margin-left: 225px;
+    display: flex;
+    background-color: #DB2512;
+    width: 198px;
+    height: 50px;
+
+}
+/* second section */
+.second{
+    background-color: #fff;
+
+}
+.second__top{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 225px;
+    margin-right: 225px;
+}
+.phone{
+    background-color: #fff;
+    width: 386px;
+    height: 196px;
+
+
+}
+.mama{
+
+    font-size: 18px;
+}
+.low{
+    font-size: 18px;
+    color: #b7b7b7;
+}
+.calendar{
+    background-color: #fff;
+    width: 386px;
+    height: 196px;
+ 
+
+}
+.mama{
+    font-size: 18px;
+}
+.low{
+    font-size: 18px;
+    color: #b7b7b7;
+}
+.mapper{
+    background-color: #fff;
+    width: 386px;
+    height: 196px;
+
+
+}
+.mama{
+    font-size: 18px;
+}
+.low{
+    font-size: 18px;
+    color: #b7b7b7;
+}
+.up{
+    display: flex;
+    margin-left: 225px;
+    margin-right: 225px;
+}
+.pic{
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    justify-content: space-between;
+}
+.textt{
+    margin-left: 225px;
+    margin-right: 225px;
+}
+.photos__title{
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.photos__text{
+    font-size: 15px;
+    font-weight: 300;
+}
+.txt{
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 500;
+}
+/* section 3 */
+.yaustal{
+    background-color:#171616;
+
+}
+.old{
+    font-size: 30px;
+}
+.not__old{
+    font-size: 15px;
+}
+.txts{
+    display: flex;
+    flex-direction: column;
+}
+.picture{
+    justify-content: center;
+}
+.maintext{
+    display: flex;
+    margin-left: 225px;
+    margin-right: 225px;
+    align-items: center;
+    justify-content: space-between;
+}
+.picture{
+    margin-right: 200px;
+}
+.old{
+    color: #fff;
+}
+.not__old{
+    color: #b7b7b7;
+}
+/* ustal sec */
+.havenoidea{
+    background-color: #fff;
+
+}
+.smalltext{
+    font-size: 24px;
+}
+.maain{
+    font-weight: 800;
+    font-size: 48px;
+}
+.conteiner{
+    margin-left: 225px;
+    margin-right: 225px;
+
+    justify-content: center;
+}
+.idiottext{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.photoooo{
+    margin-left: 100px;
+    justify-content: center;
+}
+.only__text{
+    margin-left: 225px;
+    margin-right: 225px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logotypes{
+    display: flex;
+    font-size: 15px;
+    font-weight: 600;
+}
+.logogo{
+    margin-right: 30px;
+}
